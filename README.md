@@ -1,6 +1,6 @@
-# Data Structures Homework
+# Data Structures Assignments
 
-This repository contains my solutions for the data structure homework. The repository includes 6 different main programs, each serving a different purpose.
+This repository contains my solutions for the data structure assignments. The repository includes 6 different main programs, each serving a different purpose.
 
 ## Contents
 
